@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1.22",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1.22": {
+      "PhoneBook/1.0.0": {
+        "runtime": {
+          "PhoneBook.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneBook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

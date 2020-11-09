@@ -1,0 +1,12 @@
+/Users/oliviacubela/phone-book/phonebook/bin/Debug/netcoreapp2.1.22/PhoneBook.deps.json
+/Users/oliviacubela/phone-book/phonebook/bin/Debug/netcoreapp2.1.22/PhoneBook.runtimeconfig.json
+/Users/oliviacubela/phone-book/phonebook/bin/Debug/netcoreapp2.1.22/PhoneBook.runtimeconfig.dev.json
+/Users/oliviacubela/phone-book/phonebook/bin/Debug/netcoreapp2.1.22/PhoneBook.dll
+/Users/oliviacubela/phone-book/phonebook/bin/Debug/netcoreapp2.1.22/PhoneBook.pdb
+/Users/oliviacubela/phone-book/phonebook/obj/Debug/netcoreapp2.1.22/PhoneBook.csprojAssemblyReference.cache
+/Users/oliviacubela/phone-book/phonebook/obj/Debug/netcoreapp2.1.22/PhoneBook.AssemblyInfoInputs.cache
+/Users/oliviacubela/phone-book/phonebook/obj/Debug/netcoreapp2.1.22/PhoneBook.AssemblyInfo.cs
+/Users/oliviacubela/phone-book/phonebook/obj/Debug/netcoreapp2.1.22/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/oliviacubela/phone-book/phonebook/obj/Debug/netcoreapp2.1.22/PhoneBook.dll
+/Users/oliviacubela/phone-book/phonebook/obj/Debug/netcoreapp2.1.22/PhoneBook.pdb
+/Users/oliviacubela/phone-book/phonebook/obj/Debug/netcoreapp2.1.22/PhoneBook.genruntimeconfig.cache
